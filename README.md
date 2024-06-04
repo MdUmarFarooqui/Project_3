@@ -1,5 +1,7 @@
-Real Estate Pricing Analysis
-Overview
+# Real Estate Pricing Analysis
+
+##Overview
+
 This project aims to analyze how customer preferences and amenities impact house prices using a real estate pricing dataset. The analysis includes data loading, cleaning, univariate and multivariate analysis, feature engineering, and exploration of market trends and customer preferences.
 
 Installation
